@@ -1,6 +1,6 @@
 # PicoCTF_2024
 
-Dưới đây là những bài mà mình đã giải được trong giải vừa rồi. Qua quá trình giải bài này, mình đã học được rất nhiều kiến thức mới và nhận ra những điểm yếu của mình. Mình sẽ rút kinh nghiệm từ những thất bại này để cải thiện kỹ năng của mình trong các giải đấu tương lai.
+Dưới đây là những bài mà mình đã giải được trong giải vừa rồi. Qua quá trình giải bài này, mình đã học được rất nhiều kiến thức mới và nhận ra những điểm yếu của mình. Mình sẽ rút kinh nghiệm này để cải thiện kỹ năng của mình trong các giải đấu tương lai.
 
 Mình hy vọng rằng write-up này sẽ hữu ích và mang lại thông tin hữu ích cho mọi 
 
