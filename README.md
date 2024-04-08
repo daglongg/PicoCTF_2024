@@ -1,8 +1,8 @@
 # PicoCTF_2024
 
-Đây là các bài mà mình đã solve ra được. Tuy không được thứ hạng cao, nhưng mình sẽ cố gắng trong tương lai. Qua giải này mình đã học được rất nhiều các kiến thức và cũng có nhiều sự thiếu sót. Mình sẽ rút kinh nghiệm cho các giải về sau.
+Dưới đây là những bài mà mình đã giải được trong giải vừa rồi. Qua quá trình giải bài này, mình đã học được rất nhiều kiến thức mới và nhận ra những điểm yếu của mình. Mình sẽ rút kinh nghiệm từ những thất bại này để cải thiện kỹ năng của mình trong các giải đấu tương lai.
 
-Mình mong write up này sẽ phần nào giúp đỡ mọi người.
+Mình hy vọng rằng write-up này sẽ hữu ích và mang lại thông tin hữu ích cho mọi 
 
 Nếu có phần kiến thức nào của mình sai hoặc là các bạn có cách giải hay hơn thì mình mong các bạn sẽ phản hồi cho mình nhé ! 
 
